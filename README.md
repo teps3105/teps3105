@@ -13,7 +13,7 @@ Focused on decision boundaries, automation, and AI-aware systems.
 ## What I'm working on
 
 - Personal infrastructure & homelab
-- System design frameworks (Light / CRATE)
+- System design frameworks
 - Backend & automation tooling
 
 ## Contact
