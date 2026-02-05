@@ -1,16 +1,21 @@
-## Hi there 👋
+## What I do
 
-<!--
-**teps3105/teps3105** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+System design & backend engineer.
+Focused on decision boundaries, automation, and AI-aware systems.
 
-Here are some ideas to get you started:
+## How I think
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Clear ownership over clever abstractions
+- Decisions should be traceable and reversible
+- AI is a tool, not an authority
+- Systems should fail loudly, not quietly
+
+## What I'm working on
+
+- Personal infrastructure & homelab
+- System design frameworks (Light / CRATE)
+- Backend & automation tooling
+
+## Contact
+
+- LinkedIn: <https://www.linkedin.com/in/derek-hsu-55b775195/>
